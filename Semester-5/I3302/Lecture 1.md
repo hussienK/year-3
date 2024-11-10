@@ -1,4 +1,4 @@
-# Server-side Web Development
+# Server-side Web Development - Week 1
 
 ## Prequisites
 
